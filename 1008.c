@@ -7,5 +7,4 @@ int main()
     SALARY=(B*C);
     printf("SALARY = U$ %0.2f\n",SALARY);
     return 0;
-
 }
